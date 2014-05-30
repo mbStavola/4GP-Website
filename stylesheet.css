@@ -43,11 +43,10 @@ footer{
 	margin-left: 11%;
 }
 
-.jumbotron {
-  text-align: center;
-  border-bottom: 1px solid #e5e5e5;
+#jumbotron{
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	margin-top: 20px;
 }
-
-.jumbotron {
-    border-bottom: 0;
-  }
