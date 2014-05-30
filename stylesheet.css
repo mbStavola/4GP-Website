@@ -43,7 +43,8 @@ footer{
 	margin-left: 11%;
 }
 
-.btn{
+.btn .btn-default{
 	background-color: #1E90FF;
 	color: white;
+	font-weight: bold;
 }
