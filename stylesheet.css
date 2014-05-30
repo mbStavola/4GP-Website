@@ -43,8 +43,11 @@ footer{
 	margin-left: 11%;
 }
 
-.btn .btn-default{
-	background-color: #1E90FF;
-	color: white;
-	font-weight: bold;
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
 }
+
+.jumbotron {
+    border-bottom: 0;
+  }
