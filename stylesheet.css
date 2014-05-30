@@ -32,14 +32,18 @@ body {
 footer{
 	font-size: 12px;
 	font-family: Times, serif;
-	border-padding: 1px;
-	border-top-color:gray;
-	border-top-style: double;
+	border-top-padding: 1px;
+	border-top-color:#D3D3D3;
+	border-top-style: solid;
+	border-top-width: thin;
 	position: relative;;
 	text-indent: 50px;
 	margin-top: 30px;
-	border-top-left-radius: 1px;
-	border-top-right-radius: 1px;
 	width: 79%;
 	margin-left: 11%;
+}
+
+.btn{
+	background-color: #1E90FF;
+	color: white;
 }
